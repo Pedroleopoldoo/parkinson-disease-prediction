@@ -13,5 +13,5 @@ df = kagglehub.dataset_load(
   file_path,
 )
 
-df.to_csv('dataset.csv', index=False)
+df.to_csv(r'data/dataset.csv', index=False)
 print("First 5 records:", df.head())

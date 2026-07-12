@@ -11,7 +11,7 @@ The main goal is to explore the dataset, develop predictive machine learning mod
 ### Current Stage
 
 - [x] Exploratory Data Analysis (EDA)
-- [ ] Feature Engineering
+- [x] Feature Engineering
 - [ ] Machine Learning with Scikit-Learn
 - [ ] Machine Learning with PyTorch
 - [ ] Database (SQLite/PostgreSQL)
@@ -46,9 +46,11 @@ Some of the main features include:
 ```text
 project/
 │
-├── dataset/
+├── data/
+├── models/
 ├── notebooks/
-│   └── EDA.ipynb
+│   └── 01_EDA.ipynb
+│   └── 02_Feature_Engineering.ipynb
 ├── README.md
 └── ROADMAP.md
 ```

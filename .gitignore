@@ -1,2 +1,9 @@
-archives/dataset.csv
+# Data imports
+data/*
+!data/import_kaggle.py
+
+# Venv ignore
 .venv/
+
+# Models ignore
+models/*
