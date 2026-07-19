@@ -35,7 +35,7 @@ This document outlines the planned development stages for the Parkinson Disease 
 
 ## Status
 
-⬜ Not Started
+✅ Completed
 
 ---
 
